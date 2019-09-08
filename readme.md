@@ -1,14 +1,15 @@
 ## This repo is created to upload experimental results and supplementary document(s).
 
-## For visualization the html from github, pleasa access http://htmlpreview.github.io/ and paste the following link: 
+## As github does not directly support visualization of html file, please click the following links for testing results on AAPL and GOOG stock series in association with news articles collected from Thomson Reuters:
 
-### https://github.com/anony-account/IAAI/blob/master/supp-AAPL-RelevantNews.html
+http://htmlpreview.github.io/?https://github.com/anony-account/IAAI/blob/master/supp-AAPL-RelevantNews.html
 
-### https://github.com/anony-account/IAAI/blob/master/supp-GOOG-RelevantNews.html
+http://htmlpreview.github.io/?https://github.com/anony-account/IAAI/blob/master/supp-GOOG-RelevantNews.html
 
-The first html file shows the relevant news associated with AAPL stock price time series discovered by our model MSIN. The higher attention mass values, the more relevant the corresponding news articles. 
 
-The second html file shows the relevant news associated with GOOG stock price time series discovered by our model MSIN. The higher attention mass values, the more relevant the corresponding news articles. 
+### + The first html file shows the relevant news associated with AAPL stock price time series discovered by our model. The higher attention mass values, the more relevant the corresponding news articles. 
+
+### + The second html file shows the relevant news associated with GOOG stock price time series discovered by our model. The higher attention mass values, the more relevant the corresponding news articles. 
 
 
 
