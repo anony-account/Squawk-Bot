@@ -7,9 +7,11 @@ http://htmlpreview.github.io/?https://github.com/anony-account/IAAI/blob/master/
 http://htmlpreview.github.io/?https://github.com/anony-account/IAAI/blob/master/supp-GOOG-RelevantNews.html
 
 
-### + The first html file shows the relevant news associated with AAPL stock price time series discovered by our model. The higher attention mass values, the more relevant the corresponding news articles. 
+### + The first html file shows the relevant news associated with AAPL stock price time series discovered by our model.
 
-### + The second html file shows the relevant news associated with GOOG stock price time series discovered by our model. The higher attention mass values, the more relevant the corresponding news articles. 
+### + The second html file shows the relevant news associated with GOOG stock price time series discovered by our model. 
+
+### + In both files, a higher attention mass encodes a more relevant news article. 
 
 
 
